@@ -1,5 +1,5 @@
 # Desafio-dev
-atividades feitas em PHP e Javascript.
+atividades feitas em Javascript.
 
 
 
