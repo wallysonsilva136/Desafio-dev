@@ -1,5 +1,5 @@
-# Desafio-dev
-atividades feitas em Javascript.
+# Praticando logica de programação 
+- Atividades feitas em Javascript e PHP.
 
 
 
